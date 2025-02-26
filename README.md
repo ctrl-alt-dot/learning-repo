@@ -1,4 +1,4 @@
 # learning-repo
-Learning about Git and GitHub.
-This is my first Git Repository.
-Author - Subhradeep Bhowmik
+Learning about Git and GitHub.<br>
+This is my first Git Repository.<br>
+Author - Subhradeep Bhowmik<br>
